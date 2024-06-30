@@ -1,0 +1,26 @@
+body
+{
+   background-color:#9BEC00;
+}
+
+
+
+.Container
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    height: 10rem;
+    width: 20rem;
+    background-color: black;
+    border-radius: 1rem;
+    color: #06D001;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    flex-direction: column;
+    gap: 15px;
+}
+
